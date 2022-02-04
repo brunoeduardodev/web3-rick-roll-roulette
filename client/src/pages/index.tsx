@@ -35,7 +35,7 @@ const Home: NextPage = () => {
         <meta property="og:url" content="https://web3-rick-roll-roulette.vercel.app/" />
         <meta
           property="og:description"
-          content="Take a chane! Or you 'll win Ether (test network) or 'll be rick rolled!"
+          content="Take a chance! Or you 'll win Ether (test network) or 'll be rick rolled!"
         />
         <meta property="og:description" content="" />
         <meta property="og:type" content="website" />
@@ -44,12 +44,12 @@ const Home: NextPage = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Take a chane! Or you 'll win Ether (test network) or 'll be rick rolled!"
+          content="Take a chance! Or you 'll win Ether (test network) or 'll be rick rolled!"
         />
         <meta name="twitter:title" content="Rick Roll Roulette" />
         <meta name="twitter:image" content="https://web3-rick-roll-roulette.vercel.app/ogimage.jgp" />
 
-        <meta name="description" content="Take a chane! Or you 'll win Ether (test network) or 'll be rick rolled!" />
+        <meta name="description" content="Take a chance! Or you 'll win Ether (test network) or 'll be rick rolled!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
